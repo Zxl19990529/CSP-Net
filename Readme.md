@@ -49,4 +49,4 @@ scripts/
 └── ScribbleScribbleSup
     └── emlc_ToCo.sh
 ```
-The checkpoints are available at [BaiduNetdisk](https://pan.baidu.com/s/1iE5thVH_z_Xm7q_h7Bar6Q?pwd=ayri)
+The checkpoints are available at [BaiduNetdisk](https://pan.baidu.com/s/1iE5thVH_z_Xm7q_h7Bar6Q)
